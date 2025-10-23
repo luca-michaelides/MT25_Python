@@ -1,6 +1,9 @@
 # 🧠 Michaelmas 2025
 
-A collection of coding problems and algorithm solutions (LeetCode + Project Euler style).
+1. Machine Learning algorithms
+2. Problem Sheet solutions
+3. LeetCode problems
+4. Project Euler problems
 
 ## ⚙️ Setup Instructions (Windows)
 
