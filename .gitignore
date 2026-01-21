@@ -7,12 +7,7 @@
 
 # --- Conda & virtual environments ---
 # Ignore local environment directories
-env/
-venv/
-.venv/
-conda_env/
-.myenv/
-myenv/
+test_env/
 
 # --- Byte-compiled / cache files ---
 __pycache__/
